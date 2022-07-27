@@ -1,0 +1,36 @@
+# MessageAnnouncer v1.12.3 Main configuration
+
+announcer_enabled: true
+announcer_random: true
+announce_interval: 240
+sound:
+  enabled: true
+  sound_name: BLOCK_NOTE_BLOCK_PLING
+  volume: 10
+  pitch: 1
+interval_announcement_list:
+- 1
+- 2
+announcements:
+  '1':
+  - '{"text": ""}'
+  - '{"text": "&7|&f&m------------------&7| &r&a&lArgium&2&lEngine&r &7|&f&m-------------------&7|"}'
+  - '{"text": ""}'
+  - '{"text": "  &7»&aDon`t forget to vote for our"}'
+  - '{"text": "  &7»&aserver to get awesome rewards&7."}'
+  - '{"text": ""}'
+  - '["",{"text":"    &2&nargium.net/vote","clickEvent":{"action":"open_url","value":"https://argium.net/vote"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"&aClick
+    To Open Link"}]}}}]'
+  - '{"text": ""}'
+  - '{"text": "&7|&f&m----------------------------------------------------&7|"}'
+  - '{"text": ""}'
+  - '{"text": ""}'
+  '2':
+  - '{"text": ""}'
+  - '{"text": "&7|&f&m------------------&7| &r&a&lArgium&2&lEngine&r &7|&f&m-------------------&7|"}'
+  - '{"text": ""}'
+  - '{"text": "  &7»&aHelp keep the server safe and clean."}'
+  - '{"text": "  &7»&aReport rule breakers to our Staff Team!"}'
+  - '{"text": ""}'
+  - '{"text": "&7|&f&m----------------------------------------------------&7|"}'
+  - '{"text": ""}'

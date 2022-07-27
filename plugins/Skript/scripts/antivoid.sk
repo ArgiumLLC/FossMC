@@ -1,0 +1,6 @@
+on damage of a player:
+    if victim is in world "spawn":
+        if damage cause is void:
+            cancel event
+            heal the victim
+            make victim execute command "spawn"

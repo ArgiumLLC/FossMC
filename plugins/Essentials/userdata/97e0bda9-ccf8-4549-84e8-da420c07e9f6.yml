@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.20.188.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657584729333
+  login: 1657584696045
+money: '0'
+last-account-name: dexamine
+lastlocation:
+  world: 87a97430-c2b9-458a-ab82-23005111d531
+  world-name: world
+  x: -32.0
+  y: 68.0
+  z: -32.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 569078e6-e87e-4f2c-8cc3-0d01fce7482f
+  world-name: spawn
+  x: 0.44559822063338395
+  y: 89.5
+  z: 3.6273039880242814
+  yaw: 23.54825210571289
+  pitch: 3.4500041007995605

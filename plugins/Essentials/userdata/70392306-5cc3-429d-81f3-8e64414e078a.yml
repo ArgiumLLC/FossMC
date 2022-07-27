@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.98.193.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1657443321987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657494648136
+  login: 1657492578333
+money: '0'
+last-account-name: Pontiffex
+logoutlocation:
+  world: 569078e6-e87e-4f2c-8cc3-0d01fce7482f
+  world-name: spawn
+  x: 6.371026405937899
+  y: 90.0
+  z: -8.056226232921771
+  yaw: -23.55615234375
+  pitch: 8.549861907958984
+lastlocation:
+  world: 569078e6-e87e-4f2c-8cc3-0d01fce7482f
+  world-name: spawn
+  x: -7.000362910740309
+  y: 90.0
+  z: 2.163583113304518
+  yaw: -78.44989013671875
+  pitch: 21.14995002746582
